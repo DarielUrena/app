@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CFL</string>
+    <string name= "Title" translatable="false">Campus Food Locator</string>
+    <string name= "Filer_pizza">Pizza</string>
+    <string name= "Filter_Salads">Salads</string>
+    <string name= "Filter_gg">Grab and Go</string>
+</resources>
